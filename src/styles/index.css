@@ -9,3 +9,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron {
+    background-image: url('https://wallpapers.com/images/hd/4k-ultra-hd-landscape-wallpaper-sa8ffsciekildmug.jpg');
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    
+}
